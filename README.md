@@ -49,7 +49,18 @@ The following parameter is considered as target variable for the model:
 
 ## Screenshots
 ### Feature Distribution Analysis
+![Feature distribution](images/feature_distributions.png?raw=true "name_1")
 ### Visualization of the relationships between features and target variable
+![Features and target variable](images/features_and_target_variable.png?raw=true "name_2")
 ### Feature Correlation
+![Feature correlation](images/feature_correlations.png?raw=true "name_3")
 ### Results from Machine Learning Algorithms
+F1 scores:
+
+![F1_score](images/F1_score.png?raw=true "name_4")
 ### ROC curve
+![ROC Curve](images/ROC_curve.png?raw=true "name_5")
+
+AUC scores:
+
+![AUC score](images/AUC_score.png?raw=true "name_6")
